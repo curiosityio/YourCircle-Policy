@@ -8,7 +8,7 @@ The following terms and conditions ("Terms") govern all use of the FindYourCircl
 
 Please read this Agreement carefully before accessing or using our Services. By accessing or using any part of our Services, you agree to become bound by the terms and conditions of this agreement. If you do not agree to all the terms and conditions of this agreement, then you may not access any our Services. If these terms and conditions are considered an offer by Curiosity IO, acceptance is expressly limited to these terms.
 
-Our Services are not directed to children. Access to and use of our Services is only for those over the age of 13 (or 16 in the European Union). If you are younger than this, you may not register for or use our Services. Any person who registers as a user or provides their personal information to our Services represents that they are 13 years of age or older (16 years or older in the European Union).
+Our Services are not directed to children. Access to and use of our Services is only for those over the age of 16. If you are younger than this, you may not register for or use our Services. Any person who registers as a user or provides their personal information to our Services represents that they are 16 years of age or older.
 
 Violation of any of the terms below will result in the termination of your Account. You agree to use the Service at your own risk.
 

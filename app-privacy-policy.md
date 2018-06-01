@@ -193,7 +193,7 @@ You can ask us for more information about the steps we take to protect your pers
 
 We do not knowingly solicit data from or market to children under the age of 16 with our Services. If a parent or guardian becomes aware that their child has provided us with information without their consent, they should [contact us](/#contact). We will delete such information as described in [How Long We Keep Information above](#How-Long-We-Keep-Information).
 
-Children between the ages of 13 and 16 are allowed to use our Services with the consent of a parent or guardian by [contacting us](/#contact) and following our directions in the reply. We are not responsible for Users who lie about their age.
+You must be at least 16 years of age to use our Services. We are not responsible for Users who lie about their age.
 
 # Privacy Policy Changes
 
