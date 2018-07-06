@@ -1,4 +1,4 @@
-We’ve updating our Privacy Policy on May 28, 2018. You can learn about what’s new [here](https://blog.findyourcircle.co/privacy-policy-updates-may-2018). Our new policy and current policy are both below.
+We’ve updating our Privacy Policy on July 6, 2018. You can learn about the latest change [here](https://blog.findyourcircle.co/privacy-policy-update-july-2018). 
 
 # Your Circle privacy policy
 
@@ -97,7 +97,7 @@ We share information about you in the limited circumstances spelled out below an
 * Legal Requests: We may disclose information about you in response to a subpoena, court order, or other governmental request.
 * To Protect Rights, Property, and Others: We may disclose information about you when we believe in good faith that disclosure is reasonably necessary to protect the property or rights of Your Circle, third parties, or the public at large. For example, if we have a good faith belief that there is an imminent danger of death or serious physical injury, we may disclose information related to the emergency without delay.
 * Business Transfers: In connection with any merger, sale of company assets, or acquisition of all or a portion of our business by another company, or in the unlikely event that Your Circle goes out of business or enters bankruptcy, user information would likely be one of the assets that is transferred or acquired by a third party. If any of these events were to happen, this Privacy Policy would continue to apply to your information and the party receiving your information may continue to use your information, but only consistent with this Privacy Policy.
-* Aggregated or De-Identified Information: We may share information that has been aggregated or reasonably de-identified, so that the information could not reasonably be used to identify you. For instance, we may publish aggregate statistics about the use of our Services. None of this information is sold, ever. It would only be used by Your Circle to the public on a homepage or other marketing material.
+* Aggregated or De-Identified Information: We may share information that has been aggregated or reasonably de-identified, so that the information could not reasonably be used to identify you. For instance, we may publish aggregate statistics about the use of our Services. We may also share aggregate statistics with a non-profit organization customer of our Services as part of their License agreement to determine the impact of using our Services. This information may also be used by the Your Circle team to make public on a homepage or in other marketing material.
 
 ## Information Shared Publicly
 
@@ -200,3 +200,29 @@ You must be at least 16 years of age to use our Services. We are not responsible
 Although most changes are likely to be minor, Your Circle may change its Privacy Policy from time to time. Your Circle encourages visitors to frequently check this page for any changes to its Privacy Policy. If we make changes, we will notify you by revising the change log below, and, in some cases, we may provide additional notice (such as adding a statement to our homepage or the [Your Circle Blog](https://blog.findyourcircle.co/), or sending you a notification through email). Your further use of the Services after a change to our Privacy Policy will be subject to the updated policy.
 
 That’s it! Thanks for reading.
+
+---
+
+# Changelog 
+
+## Generic, non-personally identifiable reports are shared with non-profits. - 2018-07-06
+
+More details about this update can be found [in this blog post](https://blog.findyourcircle.co/privacy-policy-update-july-2018/). 
+
+### Changed
+
+* Last bullet point under section, "Sharing information" has been updated. Generic, non-personally identifiable reports are generated and shared with non-profit organizations that pay Your Circle to offer Your Circle to people they help. These statistical reports are to help the non-profits understand their impact in Your Circle. 
+
+## Add more privacy to users. Be more clear. - 2018-05-28
+
+More details about this update can be found [in this blog post](https://blog.findyourcircle.co/privacy-policy-updates-may-2018/). 
+
+### Added 
+
+* Chat messages sent in the app are deleted 7 days later.
+* None of your personal information is sold, ever. None of your personal information is public.
+* Section added for advertisements where non-profits can advertise their programs and services to you in the app. None of your information is sold or shared with anyone outside of our team including non-profits, ever.
+
+# Changed
+
+* More details have been added to the policy to be more readable and less vague.
